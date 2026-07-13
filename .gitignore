@@ -1,0 +1,12 @@
+# File thực thi
+*.exe
+
+# File object
+*.o
+*.obj
+
+# Thư mục cấu hình VS Code
+.vscode/
+
+# File tạm
+*.tmp
