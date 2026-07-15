@@ -20,6 +20,7 @@ int main() {
   //INPUT - @STUDENT:ADD YOUR CODE FOR INPUT HERE:
  int a, b;
     scanf("%d %d", &a, &b);
+    
 
 
   // Fixed Do not edit anything here.
@@ -27,6 +28,7 @@ int main() {
   //@STUDENT: WRITE YOUR OUTPUT HERE:
 
     printf("%d\n", lcm(a, b));
+  
   
   
   

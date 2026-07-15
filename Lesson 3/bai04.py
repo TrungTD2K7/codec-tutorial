@@ -1,6 +1,8 @@
 num1 = input(" nhập số thứ nhất : ")
 num2 = input(" nhập số thứ hai : ")
 tong = float(num1) + float(num2)
+num1 = float(num1)
+num2 = float(num2)
 print(f"tong cua 2 so hang la : {tong} ")
 hieu = float(num1) - float(num2)
 print(f"hieu cua 2 so hang la : {hieu} ")
